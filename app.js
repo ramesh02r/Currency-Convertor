@@ -1,3 +1,6 @@
+/* Deleted China */
+
+
 const countryList = {
     AED: "AE",
     AFN: "AF",
@@ -31,7 +34,6 @@ const countryList = {
     XAF: "CF",
     CHF: "CH",
     CLP: "CL",
-    CNY: "CN",
     COP: "CO",
     CRC: "CR",
     CUP: "CU",
